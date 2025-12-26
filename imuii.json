@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "next build",
+  "startCommand": "next start",
+  "domain": "daffatechproject",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_13c8c12e444d20677b7a47862c607ffd0b2e9b209996f78608ce4c63cac75453",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/daffatechproject-e38fe230.git"
+}
